@@ -1,0 +1,81 @@
+Lecturer added successfully.
+Lecturer added successfully.
+Lecturer added successfully.
+Lecturer added successfully.
+Lecturer added successfully.
+
+=== ALL LECTURERS ===
+Employment Type: Full-time
+Lecturer ID: FT001
+Name: Ahmed Ali
+Basic Salary: $1,800.00
+Research Allowance: $300.00
+Administrative Allowance: $250.00
+Total Salary: $2,350.00
+------------------------------
+Employment Type: Full-time
+Lecturer ID: FT002
+Name: Fatima Hassan
+Basic Salary: $1,500.00
+Research Allowance: $200.00
+Administrative Allowance: $150.00
+Total Salary: $1,850.00
+------------------------------
+Employment Type: Part-time
+Lecturer ID: PT001
+Name: Mohamed Omar
+Teaching Hours: 60.0
+Hourly Rate: $40.00
+Total Salary: $2,400.00
+------------------------------
+Employment Type: Part-time
+Lecturer ID: PT002
+Name: Amina Yusuf
+Teaching Hours: 45.0
+Hourly Rate: $35.00
+Total Salary: $1,575.00
+------------------------------
+Employment Type: Part-time
+Lecturer ID: PT003
+Name: Abdi Ahmed
+Teaching Hours: 50.0
+Hourly Rate: $45.00
+Total Salary: $2,250.00
+------------------------------
+
+Highest-Paid Lecturer
+Employment Type: Part-time
+Lecturer ID: PT001
+Name: Mohamed Omar
+Teaching Hours: 60.0
+Hourly Rate: $40.00
+Total Salary: $2,400.00
+
+=== PAYROLL SUMMARY ===
+Full-Time Payroll: $4,200.00
+Part-Time Payroll: $6,225.00
+Total Payroll: $10,425.00
+
+Lecturers earning more than $2,000.00
+Employment Type: Full-time
+Lecturer ID: FT001
+Name: Ahmed Ali
+Basic Salary: $1,800.00
+Research Allowance: $300.00
+Administrative Allowance: $250.00
+Total Salary: $2,350.00
+------------------------------
+Employment Type: Part-time
+Lecturer ID: PT001
+Name: Mohamed Omar
+Teaching Hours: 60.0
+Hourly Rate: $40.00
+Total Salary: $2,400.00
+------------------------------
+Employment Type: Part-time
+Lecturer ID: PT003
+Name: Abdi Ahmed
+Teaching Hours: 50.0
+Hourly Rate: $45.00
+Total Salary: $2,250.00
+------------------------------
